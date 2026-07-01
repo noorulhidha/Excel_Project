@@ -177,7 +177,7 @@ Vivi Calf-Sales-Dashboard/
 
 ## 📷 Dashboard Preview
 ![Vivi Calf Sales Dashboard]
-[image alt](https://github.com/noorulhidha/portfolio_projects/blob/e5f0875b4a46faabe642be4a3342cd9219fc4c16/EXCEL-Vivi%20Calf%20Sales%20Dashboard.png)
+[image alt](EXCEL-Vivi%20Calf%20Sales%20Dashboard.png)
 
 ```
 
