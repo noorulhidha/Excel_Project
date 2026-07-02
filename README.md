@@ -1,4 +1,4 @@
-# portfolio_projects
+# Excel_Project
 
 ## 📁 Project Structure
 ```
@@ -6,9 +6,6 @@ portfolio_projects/
 │
 ├── EXCEL-Vivi-Calf-Sales-Project.xlsx
 ├── EXCEL-Vivi-Calf-Sales-Dashboard.png
-├── POSTGRES SQL-Zepto Analysis.sql
-├── TABLEAU-Zepto Product Inventory &Pricing Dashboard.twb
-├── TABLEAU-Zepto Product Inventory &Pricing Dashboard.png
 └── README.md
 ```
 
