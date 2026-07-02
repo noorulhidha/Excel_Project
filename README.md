@@ -2,7 +2,7 @@
 
 ## 📁 Project Structure
 ```
-portfolio_projects/
+Excel_Project/
 │
 ├── EXCEL-Vivi-Calf-Sales-Project.xlsx
 ├── EXCEL-Vivi-Calf-Sales-Dashboard.png
