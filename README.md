@@ -1,14 +1,5 @@
 # Excel_Project
 
-## 📁 Project Structure
-```
-Excel_Project/
-│
-├── EXCEL-Vivi-Calf-Sales-Project.xlsx
-├── EXCEL-Vivi-Calf-Sales-Dashboard.png
-└── README.md
-```
-
 # 📊 Vivi Calf Sales Dashboard | Microsoft Excel
 
 ## Project Overview
@@ -18,6 +9,15 @@ The *Vivi Calf Sales Dashboard* is an interactive Microsoft Excel dashboard desi
 The dashboard transforms raw sales data into meaningful business insights using Excel features such as Pivot Tables, Pivot Charts, Slicers, and Dashboard Design.
 
 ---
+
+## 📁 Project Structure
+```
+Excel_Project/
+│
+├── EXCEL-Vivi-Calf-Sales-Project.xlsx
+├── EXCEL-Vivi-Calf-Sales-Dashboard.png
+└── README.md
+```
 
 ## 🎯 Project Objectives
 
@@ -176,7 +176,6 @@ From the dashboard, we can identify:
 ## 📷 Dashboard Preview
 ![Vivi Calf Sales Dashboard](EXCEL-Vivi%20Calf%20Sales%20Dashboard.png)
 
-```
 
 ---
 
@@ -190,14 +189,5 @@ This project helped strengthen my skills in:
 - Designing user-friendly dashboards
 - Analyzing business performance
 - Presenting data visually for decision-making
-
----
-
-## 👤 Author
-
-**Noorul Hidhaya**
-
-- 💼 LinkedIn: https://www.linkedin.com/in/noorulhidha12
-- 💻 GitHub: https://github.com/noorulhidha
 
 ---
